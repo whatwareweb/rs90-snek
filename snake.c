@@ -1,5 +1,5 @@
-// A simple "snake" game written in C / SDL 1.2.
-// Copyright 2020 Jason Pepas
+// A simple "snake" game written in C / SDL 1.2 for RS-90 system.
+// Copyright 2020 Jason Pepas, 2024 whatware
 // Released under the terms of the MIT license
 // See https://opensource.org/licenses/MIT
 
